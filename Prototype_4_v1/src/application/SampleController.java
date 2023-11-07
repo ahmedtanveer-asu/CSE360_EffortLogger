@@ -152,6 +152,7 @@ public class SampleController
 				   stage_1 = (Stage)((Node)event.getSource()).getScene().getWindow();
 				   scene_1 = new Scene(root_1);
 				   stage_1.setScene(scene_1);
+				   // simple test for git push/pull
 				   stage_1.show();
 				   				   				   				   
 			   	}
